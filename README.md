@@ -45,7 +45,3 @@ Modelos de simulación para analizar tiempos de proceso y generación de datos a
 
 Si quieres saber más sobre mi trabajo o colaborar en algún proyecto, puedes escribirme a:  
 **mendoza.erick06@outlook.com**
-
----
-
-“El mejor aprendizaje viene de crear, equivocarse y volver a intentarlo.”
