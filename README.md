@@ -27,9 +27,11 @@ Mi meta es seguir creciendo como desarrollador y combinar mis habilidades técni
 
 ## Algunos de mis proyectos
 
-**Sistema de Venta de Tiquetes de Buses**  
-Un sistema para gestionar usuarios, rutas, reservas y reportes de ventas.  
-(Repositorio en preparación.)
+**Aplicaciones Móviles**  
+Aplicación desarrollada en **Android Studio** con **Java**, que permite visualizar competiciones, equipos y jugadores mediante distintas pantallas.  
+Incluye el uso de **adaptadores personalizados**, **ListView**, y una interfaz diseñada en XML.
+[Ver en GitHub](https://github.com/erickmendoza/competiciones-app)
+
 
 **Métricas de Software**  
 Implementación de diferentes métricas en Python para evaluar calidad y desempeño del código.  
