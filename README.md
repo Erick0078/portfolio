@@ -30,7 +30,7 @@ Mi meta es seguir creciendo como desarrollador y combinar mis habilidades técni
 **Aplicaciones Móviles**  
 Aplicación desarrollada en **Android Studio** con **Java**, que permite visualizar competiciones, equipos y jugadores mediante distintas pantallas.  
 Incluye el uso de **adaptadores personalizados**, **ListView**, y una interfaz diseñada en XML.
-[Ver en GitHub](https://github.com/erickmendoza/competiciones-app)
+[Ver en GitHub](https://github.com/Erick0078/competitions-app)
 
 
 **Métricas de Software**  
