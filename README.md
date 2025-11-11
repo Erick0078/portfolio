@@ -38,11 +38,10 @@ Incluye el uso de **adaptadores personalizados**, **ListView**, y una interfaz d
 [Ver en GitHub](https://github.com/erickmendoza/red-apoyo-pacientes)
 
 Proyecto integral de **Diseño e Implementación de Software** en **Java Web**, que abarca análisis, diseño, arquitectura y desarrollo.  
-Incluye documentación completa, diagramas UML, wireframes, y código base.
+Incluye documentación completa, diagramas UML, wireframes y código base.  
+Actualmente se encuentra **en constante actualización y mejora**, incorporando nuevas funcionalidades y optimizaciones técnicas.
 
-**Simulación de Procesos y Distribuciones**  
-Modelos de simulación para analizar tiempos de proceso y generación de datos aleatorios.  
-(Repositorio en preparación.)
+
 
 ---
 
