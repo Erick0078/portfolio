@@ -35,7 +35,7 @@ Incluye el uso de **adaptadores personalizados**, **ListView**, y una interfaz d
 
 
 ### Red de Apoyo a Pacientes con Enfermedades de Alto Costo
-[Ver en GitHub](https://github.com/erickmendoza/red-apoyo-pacientes)
+[Ver en GitHub](https://github.com/Erick0078/red-apoyo-pacientes)
 
 Proyecto integral de **Diseño e Implementación de Software** en **Java Web**, que abarca análisis, diseño, arquitectura y desarrollo.  
 Incluye documentación completa, diagramas UML, wireframes y código base.  
