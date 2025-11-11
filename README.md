@@ -34,7 +34,7 @@ Aplicación desarrollada en **Android Studio** con **Java**, que permite visuali
 Incluye el uso de **adaptadores personalizados**, **ListView**, y una interfaz diseñada en XML.
 
 
-### Red de Apoyo a Pacientes con Enfermedades de Alto Costo
+### Red de Apoyo a Pacientes con Enfermedades de Alto Costo (aun no terminado)
 [Ver en GitHub](https://github.com/Erick0078/red-apoyo-pacientes)
 
 Proyecto integral de **Diseño e Implementación de Software** en **Java Web**, que abarca análisis, diseño, arquitectura y desarrollo.  
