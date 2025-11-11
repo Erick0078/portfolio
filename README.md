@@ -27,15 +27,18 @@ Mi meta es seguir creciendo como desarrollador y combinar mis habilidades técni
 
 ## Algunos de mis proyectos
 
-**Aplicaciones Móviles**  
-Aplicación desarrollada en **Android Studio** con **Java**, que permite visualizar competiciones, equipos y jugadores mediante distintas pantallas.  
-Incluye el uso de **adaptadores personalizados**, **ListView**, y una interfaz diseñada en XML.
+### Aplicaciones Móviles 
 [Ver en GitHub](https://github.com/Erick0078/competitions-app)
 
+Aplicación desarrollada en **Android Studio** con **Java**, que permite visualizar competiciones, equipos y jugadores mediante distintas pantallas.  
+Incluye el uso de **adaptadores personalizados**, **ListView**, y una interfaz diseñada en XML.
 
-**Métricas de Software**  
-Implementación de diferentes métricas en Python para evaluar calidad y desempeño del código.  
-(Repositorio en preparación.)
+
+### Red de Apoyo a Pacientes con Enfermedades de Alto Costo
+[Ver en GitHub](https://github.com/erickmendoza/red-apoyo-pacientes)
+
+Proyecto integral de **Diseño e Implementación de Software** en **Java Web**, que abarca análisis, diseño, arquitectura y desarrollo.  
+Incluye documentación completa, diagramas UML, wireframes, y código base.
 
 **Simulación de Procesos y Distribuciones**  
 Modelos de simulación para analizar tiempos de proceso y generación de datos aleatorios.  
